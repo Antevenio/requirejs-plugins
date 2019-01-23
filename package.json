@@ -1,0 +1,25 @@
+{
+  "name": "requirejs-plugins",
+  "version": "0.0.1",
+  "description": "Small set of plugins for RequireJS. Some plugins may also work on other AMD loaders (never tested it).",
+  "main": "src\\requirejs-plugins.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antevenio/requirejs-plugins.git"
+  },
+  "keywords": [
+    "jquery"
+  ],
+  "author": "CD1212",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Antevenio/requirejs-plugins/issues"
+  },
+  "homepage": "https://github.com/Antevenio/requirejs-plugins#readme"
+}
